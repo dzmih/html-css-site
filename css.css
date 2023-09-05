@@ -1,0 +1,562 @@
+body, header {
+    background-color: white;
+
+}
+.img1 {
+    width: 50px;
+    height: 30px;
+    position: absolute;
+    left: 300px;
+    top: 20px;
+}
+.a1 {
+    position:absolute;
+    right: 300px;
+    top: 20px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    font-size: small;
+}
+.a2 {
+    position:absolute;
+    right: 400px;
+    top: 20px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    font-size: small;
+}
+.a3 {
+    position:absolute;
+    top: 20px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    font-size: small;
+    right: 500px;
+}
+.a4 {
+    position:absolute;
+    top: 20px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    font-size: small;
+    right: 600px;
+}
+body h1 {
+    position: absolute;
+    top: 230px;
+    left: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 800;
+    font-size: 60px;
+}
+.p {
+    position: absolute;
+    top: 530px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 30px;
+    left: 300px;
+}
+.gray-cube {
+    background-color: rgb(236, 236, 236);
+    width: 500px;
+    height: 600px;
+    position: absolute;
+    right: 30px;
+    top: 170px;
+    right: 300px;
+}
+.butt {
+    position: absolute;
+    top: 650px;
+    background-color: rgb(255, 213, 0);
+    border: none;
+    text-align: center;
+    width: 150px;
+    height: 50px;
+    left: 300px;
+}
+.h1 {
+    position: absolute;
+    left: 300px;
+}
+.h12 {
+    position: absolute;
+    top: 900px;
+    font-size: 60px;
+    left: 300px;
+}
+.a5 {
+    position:absolute;
+    left: 300px;
+    top: 1070px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    font-size: small;
+    background-color: rgb(255, 213, 0);
+    width:50px;
+    height: 25px;
+    text-align: center;
+    padding-top: 5px;
+}
+.a6 {
+    position:absolute;
+    left: 400px;
+    top: 1070px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    font-size: small;
+    width:100px;
+    height: 17px;
+    text-align: center;
+    padding-top: 10px;
+}
+.a7 {
+    position:absolute;
+    left: 500px;
+    top: 1070px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    font-size: small;
+    width:100px;
+    height: 17px;
+    text-align: center;
+    padding-top: 10px;
+
+}
+.a8 {
+    position:absolute;
+    left: 600px;
+    top: 1070px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    font-size: small;
+    width:100px;
+    height: 17px;
+    text-align: center;
+    padding-top: 10px;
+}
+.select {
+    border: none;
+    position: absolute;
+    top: 1080px;
+    right: 300px;
+    height: 20px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: small;
+    font-weight: 600;
+}
+.yellow-cube {
+    background-color: rgb(255, 213, 0);
+    width: 350px;
+    height: 300px;
+    position: absolute;
+    top: 1170px;
+    left: 300px;
+}
+.artwork {
+    text-align: center;
+    padding-top: 100px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    font-weight: 800;
+}
+.branding {
+    position: relative;
+    left: 130px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 800;
+}
+.gray-cube2 {
+    background-color: rgb(236, 236, 236);
+    position: absolute;
+    width: 350px;
+    height: 500px;
+    top: 1170px;
+    left: 685px
+}
+.gray-cube3 {
+    background-color: rgb(236, 236, 236);
+    width: 350px;
+    height: 300px;
+    position: absolute;
+    top: 1170px;
+    left: 1060px;
+}
+.gray-cube4 {
+    background-color: rgb(236, 236, 236);
+    width: 350px;
+    height: 500px;
+    position: absolute;
+    top: 1500px;
+    left: 300px;
+}
+.gray-cube5 {
+    background-color: rgb(236, 236, 236);
+    width: 350px;
+    height: 300px;
+    position: absolute;
+    top: 1700px;
+    left: 685px
+}
+.gray-cube6 {
+    background-color: rgb(236, 236, 236);
+    width: 350px;
+    height: 500px;
+    position: absolute;
+    top: 1500px;
+    left: 1060px;
+}
+.butt2 {
+    position: absolute;
+    top: 2050px;
+    left: 760px;
+    background-color: rgb(255, 213, 0);
+    border: none;
+    text-align: center;
+    width: 200px;
+    height: 50px;
+    font-weight: 600;
+}
+.partner1 {
+    position: absolute;
+    top: 2250px;
+    left: 300px;
+}
+.partner2 {
+    position: absolute;
+    top: 2250px;
+    left: 550px;
+}
+.partner3 {
+    position: absolute;
+    top: 2250px;
+    left: 750px;
+}
+.partner4 {
+    position: absolute;
+    top: 2250px;
+    left: 950px;
+}
+.partner5 {
+    position: absolute;
+    top: 2250px;
+    left: 1150px;
+}
+.partner6 {
+    position: absolute;
+    top: 2250px;
+    left: 1350px;
+}
+.h14 {
+    position: absolute;
+    top: 2500px;
+    left: 300px;
+}
+.p2{
+    position:absolute;
+    top: 2700px;
+    left: 300px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 800;
+    font-size: 12px;
+}
+.gray-cube7 {
+    background-color: rgb(236, 236, 236);
+    width: 350px;
+    height: 450px;
+    position: absolute;
+    top: 2850px;
+    left: 300px;
+}
+.yellow-cube3 {
+    position: absolute;
+    background-color: rgb(255, 213, 0);
+    width: 240px;
+    height: 70px;
+    bottom: 0px;
+}
+.luke {
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 25px;
+    font-weight: 800;
+    bottom: 25px;
+}
+.web {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    margin-left: 25px;
+    top: 23px;
+}
+.gray-cube8 {
+    background-color: rgb(236, 236, 236);
+    width: 350px;
+    height: 450px;
+    position: absolute;
+    top: 2850px;
+    left: 680px;
+}
+.yellow-cube4 {
+    position: absolute;
+    background-color: rgb(255, 213, 0);
+    width: 240px;
+    height: 70px;
+    bottom: 0px;
+}
+.p4 {
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 800;
+    font-size: 17px;
+    top: 2850px;
+    right: 0px;
+}
+.p5 {
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 800;
+    font-size: 10px;
+    display: block;
+    line-height: 25px;
+    top: 2850px;
+    max-width: 300px;
+}
+.about {
+    position: absolute;
+    right: 220px;
+}
+.p6 {
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    top: 2850px;
+}
+.h15 {
+    position: absolute;
+    top: 3600px;
+    left: 310px;
+}
+.p7 {
+    position: absolute;
+    top: 3790px;
+    left: 315px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+}
+p {
+    line-height: 25px;
+}
+.yellow-cube5 {
+    position: relative;
+    top: 3890px;
+    left: 310px;
+    width: 350px;
+    height: 270px;
+    background-color: rgb(255, 213, 0);
+}
+.h16 {
+    text-align: center;
+    display: inline-block;
+    position: relative;
+    top: 120px;
+    left: 50px;
+    font-size: 35px;
+    margin: 0;
+    padding-bottom: 100px;
+}
+.gray-cube9 {
+    position: absolute;
+    top: 3898px;
+    width: 350px;
+    height: 270px;
+    left: 700px;
+    background-color: rgb(236, 236, 236);
+}
+.gray-cube10 {
+    position: absolute;
+    top: 3898px;
+    width: 350px;
+    height: 270px;
+    background-color: rgb(236, 236, 236);
+    left: 1080px;
+}
+.P8 {
+    position: absolute;
+    top: 4190px;
+    left: 330px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 800;
+}
+.p9 {
+    position: absolute;
+    top: 4240px;
+    left: 330px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    max-width: 350px;
+}
+.p10 {
+    position: absolute;
+    top: 4190px;
+    left: 730px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 800;
+}
+.p11 {
+    position: absolute;
+    top: 4240px;
+    left: 730px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    max-width: 350px;
+}
+.p12 {
+    position: absolute;
+    top: 4190px;
+    left: 1130px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 800;
+}
+.p13 {
+    position: absolute;
+    top: 4240px;
+    left: 1130px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    max-width: 350px;
+}
+.h17 {
+    position: absolute;
+    top: 4540px;
+    left: 300px;
+}
+.p14 {
+    position: absolute;
+    top: 4700px;
+    left: 300px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    max-width: 800px;
+}
+.h21 {
+    position: absolute;
+    top: 4900px;
+    left: 300px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    font-weight: 800;
+}
+.gray-cube11 {
+    position: absolute;
+    width:550px;
+    height: 500px;
+    background-color: rgb(236, 236, 236);
+    top: 4900px;
+    right: 300px;
+}
+* {box-sizing: border-box}
+
+/* Add padding to containers */
+.container {
+  padding: 16px;
+}
+
+/* Full-width input fields */
+input[type=text], input[type=password] {
+  width: 100%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  display: inline-block;
+  border: none;
+  background: inherit;
+}
+
+input[type=text]:focus, input[type=password]:focus {
+  background-color: #ddd;
+  outline: none;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.registerbtn:hover {
+  opacity:1;
+}
+
+/* Set a grey background color and center the text of the "sign in" section */
+.signin {
+  background-color: inherit;
+  text-align: center;
+}
+.form {
+    position: absolute;
+    top: 5000px;
+    left: 300px;
+}
+b {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.btn2 {
+    position: absolute;
+    width: 200px;
+    height: 60px;
+    background-color: rgb(255, 213, 0);
+    top: 5300px;
+    left: 300px;
+    border: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+}
+.img2 {
+    position: absolute;
+    top: 5700px;
+    left: 700px;
+}
+.img3 {
+    position: absolute;
+    top: 5700px;
+    left: 800px;
+}
+.img4 {
+    position: absolute;
+    top: 5700px;
+    left: 900px;
+}
+.v {
+    position: absolute;
+    top: 5550px;
+    left: 1100px;
+}
+.v11 {
+    position: absolute;
+    top: 5550px;
+    left: 500px;
+}
+.v111 {
+    position: absolute;
+    top: 5550px;
+    left: 800px;
+}
+.p15 {
+    position: absolute;
+    top: 5580px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    left: 450px;
+    max-width: 170px;
+}
+.p16 {
+    position: absolute;
+    top: 5580px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    left: 750px;
+}
+.p17 {
+    position: absolute;
+    top: 5580px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    left: 1000px;
+}
